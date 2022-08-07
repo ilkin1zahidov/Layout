@@ -1,0 +1,98 @@
+
+.display{
+    background-image: url("https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000");
+    height: 100vh;
+
+
+} .navbar{
+    display: flex;
+    
+    width: 20%;
+}
+
+.city{
+   
+    margin-left: 300px;
+    padding-top: 50px;
+    width: 30%;
+
+  
+}
+
+.city img{
+    width: 100%;
+    
+}
+
+#account {
+    display: flex;
+
+    
+}
+
+#account .account_display input{
+    border: 1px solid transparent;
+    border-bottom: 1px solid grey;
+    font-size: 15px;
+
+}
+.account_display{
+    margin-top: 50px;
+    background-color: #fff;
+    width: 30%;
+    color:gray;
+   
+}
+
+.all_size{
+    margin-left: 70px;
+
+}
+
+.email{
+    margin-top: 6px;
+}
+
+.password{
+    margin-top: 6px;
+}
+
+.confirm_password{
+    margin-top: 6px;
+}
+
+.button{
+
+color: white;
+background-color: orange;
+border-radius: 50px;
+margin-top: 30px;
+padding: 3%;
+width: 40%;
+}
+
+
+#contact{
+    background-color: gray;
+    color:white
+}
+@font-face{
+    font-family: Journal;
+    src:url(../css/fonts/CarterOne-Regular.ttf)
+}
+
+.journal{
+    font-family:Journal;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+

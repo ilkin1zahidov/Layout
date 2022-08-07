@@ -1,0 +1,129 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.size{
+    width: 10%;
+    margin-top: -10px;
+}
+
+.logo{
+    margin-left: 150px;
+}
+
+#contact{
+    display: flex;
+    
+
+}
+
+.link a{
+   text-decoration: none; 
+   padding: 5px;
+
+}
+.link{
+    gap: inherit;
+    
+}
+
+.main{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.color{
+    color:orange
+}
+
+.main h1{
+    font-size: 50px;
+}
+
+.sizeimg1{
+    width: 250px;
+
+    
+}
+
+.sizeimg2{
+    width: 250px;
+    height: 177px;
+   margin-left: 20px;
+    margin-top: 50px;
+}
+
+.sizeimg3{
+    width: 266px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.all{
+    display: flex;
+    margin-left: 400px;
+   
+    
+}
+
+.img1 .stars{
+    color:yellow;
+    margin-top: 10px;
+  margin-left: 10px;
+
+    
+}
+
+.money{
+    color: green;
+}
+
+.place{
+    margin-left: 7px;
+    
+}
+
+.botton1{
+    margin-left: 40px;
+
+}
+
+.botton1 i{
+    margin-top: 10px;
+    color:yellow
+}
+
+.botton2{
+    margin-left: 40px;
+}
+
+.botton2 i{
+    margin-top: 10px;
+    color:yellow
+}
+
+.img1{
+    border:1px solid gray ;
+    margin-top: 50px;
+    height: 360px;
+    margin-left: 20px;
+   
+    
+}
+
+.botton{
+    margin-left: 20px;
+}
+
+.clocks{
+    color: grey;
+    
+}
+
+.loc{
+    margin-left: 10px;
+    color:grey
+}
+
